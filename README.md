@@ -1,24 +1,8 @@
-# README
+# Inside Man
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Listens for interesting events coming in from a RabbitMQ queue and configures an
+appropriate ingress in Kubernetes.
 
-Things you may want to cover:
+Used internally at Hex to expose custom domains for clients on [Ripple](https://ripp.pl)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Documentation incoming...
